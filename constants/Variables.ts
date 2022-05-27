@@ -1,0 +1,7 @@
+export const ARC_SWEEP_ANGLE_LIGHT_GREY = 240;
+export const ARC_SWEEP_ANGLE_YELLOW = 240;
+export const ARC_SWEEP_ANGLE_VIOLET = 220;
+export const ARC_SWEEP_ANGLE_RED = 200;
+export const ARC_SWEEP_ANGLE_BLUE = 180;
+export const ARC_SWEEP_ANGLE_GREY = 140;
+export const ARC_SWEEP_ANGLE_WHITE = 120;
